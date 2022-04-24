@@ -5,6 +5,7 @@ let emptyList = {
       title : "Frames",
       list: [
         { title: "Ash", acquired: false, rankThirty: false, researched: false },
+        { title: "TEST", acquisition: "BARKET", components: "SMT" },
         { title: "Ash Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Atlas", acquired: false, rankThirty: false, researched: false },
         { title: "Banshee", acquired: false, rankThirty: false, researched: false },
