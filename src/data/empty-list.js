@@ -1,11 +1,10 @@
 let emptyList = {
-  version : "2022.04.24.12.00",
+  version : "2022.04.24.12.00-a",
   lists : [
     {
       title : "Frames",
       list: [
         { title: "Ash", acquired: false, rankThirty: false, researched: false },
-        { title: "TEST", acquired: false, rankThirty: false, researched: false  },
         { title: "Ash Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Atlas", acquired: false, rankThirty: false, researched: false },
         { title: "Banshee", acquired: false, rankThirty: false, researched: false },
@@ -69,6 +68,7 @@ let emptyList = {
         { title: "Baruuk", acquired: false, rankThirty: false, researched: false },
         { title: "Hildryn", acquired: false, rankThirty: false, researched: false },
         { title: "Equinox Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "TEST", acquired: false, rankThirty: false, researched: false  },
       ],
     },
     {
