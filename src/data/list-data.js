@@ -4,6 +4,7 @@ let listData = {
       title : "Frames",
       list: [
         { title: "Ash", acquisition: "Market", components: "Manics" },
+        { title: "TEST", acquisition: "BARKET", components: "SMT" },
         { title: "Ash Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Atlas", acquisition: "Jordas Precept", components: "Jordas Golem" },
         { title: "Banshee", acquisition: "Tenno Lab", lab: "Tenno Lab" },
