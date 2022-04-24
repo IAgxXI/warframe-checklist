@@ -4,7 +4,6 @@ let listData = {
       title : "Frames",
       list: [
         { title: "Ash", acquisition: "Market", components: "Manics" },
-        { title: "TEST", acquisition: "BARKET", components: "SMT" },
         { title: "Ash Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Atlas", acquisition: "Jordas Precept", components: "Jordas Golem" },
         { title: "Banshee", acquisition: "Tenno Lab", lab: "Tenno Lab" },
@@ -68,6 +67,7 @@ let listData = {
         { title: "Baruuk", acquisition: "Little Duck (Vox Solaris Syndicate)", mr: 0 },
         { title: "Hildryn", acquisition:"Little Duck", components: "Exploiter Orb" },
         { title: "Equinox Prime", acquisition: "Relic", mr: 5 },
+        { title: "TEST", acquisition: "BARKET", components: "SMT" },
       ],
     },
     {
